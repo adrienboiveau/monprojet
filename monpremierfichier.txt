@@ -4,4 +4,6 @@ Nouvelle chose
 test depuis GITHUB
 dff
 
-Je fais un conflit depuis github
+
+Je ferme le conflit
+
